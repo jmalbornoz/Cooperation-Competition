@@ -1,0 +1,3 @@
+g77 modelo5.f
+time ./a.out < params
+#gnuplot
